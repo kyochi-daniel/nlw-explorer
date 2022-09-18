@@ -14,6 +14,6 @@ Projeto construído no evento Next Level Week da Rocketseat.
 - CSS
 - Git e Github
 
-## 💖 Contato
+## 📧 Contato
 
 michigamidaniel77@gmail.com
